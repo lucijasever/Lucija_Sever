@@ -1,0 +1,62 @@
+h1  {
+    color: #ac94f4;
+    font-size: 70px;
+     font-weight: 100;
+    font-style: oblique;
+   
+    
+}
+.font h1 {
+    font-family: "LucijaSever";
+}
+@font-face{
+    font-family:"Lucija Sever_projektni_zadatak3/LucijaSever.ttf" ;
+    src: url("Lucija Sever_projektni_zadatak3/LucijaSever.ttf");
+}
+
+.nav {
+    list-style-type: none;
+     overflow: hidden;
+   
+}
+
+body {
+    background-image: url("Sever_o meni/ljubičasta pozadina.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.nav li {
+    float: left;
+}
+
+.nav li a {
+    display: block;
+    color: #795695;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    padding: 14px 16px;
+    text-decoration:underline;
+    background-color:antiquewhite;
+    border-radius: 40px;
+}
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: #371f76;
+    font-weight: 700;}
+
+    p{
+        font-family:  'Courier New', Courier, monospace;
+        font-size: large;
+        font-weight: 100;
+        background-color: #ac94fc;
+    }
+
+    h3{
+        font-size: 20px;
+        background-color: #c8a4d4;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
